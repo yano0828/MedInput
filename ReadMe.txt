@@ -18,6 +18,10 @@ MedInput  Copyright(C) Ken Yano
 ■動作環境
 Windows 10
 (Windows 10以外のWindows OSについては動作確認は行っていません）
+Visual Studio 2013 の Visual C++ 再頒布可能パッケージ がインストールされていない場合は
+以下からダウンロードして，インストールしてください．
+https://www.microsoft.com/ja-jp/download/details.aspx?id=40784
+
 
 ■インストール方法
 MedInput.zip　を適当なフォルダに解凍後，setup.exe　を実行してください。
