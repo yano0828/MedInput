@@ -36,7 +36,7 @@ https://www.microsoft.com/ja-jp/download/details.aspx?id=40784
 
 
 ■インストール方法
-MedInput.zip　を適当なフォルダに解凍後してください．
+MedInput.zip　を適当なフォルダに解凍して下さい．
 
 
 ■関連論文
