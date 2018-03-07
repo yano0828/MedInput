@@ -39,10 +39,6 @@ https://www.microsoft.com/ja-jp/download/details.aspx?id=40784
 MedInput.zip　を適当なフォルダに解凍後してください．
 
 
-■アンインストール方法
-コントロールパネルのプログラムのアンインストールからMedInputを選択して
-アンインストールしてください．
-
 ■関連論文
 MedInputの詳細な内容については，以下の論文を参照してください．
 
