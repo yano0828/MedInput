@@ -39,10 +39,14 @@ https://www.microsoft.com/ja-jp/download/details.aspx?id=40784
 MedInput.zip　を適当なフォルダに解凍して下さい．
 
 
+■MedInputの使い方の紹介(youtube)
+https://www.youtube.com/watch?v=Km0qckdoc6k
+
+
 ■関連論文
 MedInputの詳細な内容については，以下の論文を参照してください．
 
-・矢野,岩尾,荒牧，"MedInput: 病名の自動予測補完による医療テキスト入力支援ツールの構築",言語処理学会 第24回年次大会,pp.1039-1042,2018,3月
+・矢野,岩尾,荒牧,"MedInput: 病名の自動予測補完による医療テキスト入力支援ツールの構築",言語処理学会 第24回年次大会,pp.1039-1042,2018,3月
 
 
 ■履歴
