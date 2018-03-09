@@ -10,7 +10,7 @@ MedInput  Copyright(C) Ken Yano
 一切の責任を負いません．各自の責任においてご使用ください．
 
 
-■はじめに
+■ はじめに
 本ソフトウエアは、医療文書の入力を支援する文書作成エディターです．文書入力において
 病名と予想される単語（文字）が入力されると、その単語（文字）から始まる予想病名の一覧を提示します．
 ユーザーは、病名一覧から該当病名を選択することで病名の補完入力を行います．
@@ -18,7 +18,7 @@ MedInput  Copyright(C) Ken Yano
 また，病名の一括抽出と抽出された病名の陽性（赤）・陰性（青）の判断を行う機能も提供しています．
 
 
-■辞書データ
+■ 辞書データ
 病名辞書は，MEDISから提供されている標準病名マスターを使用しています．
 MEDIS：http://www.medis.or.jp/
 
@@ -27,7 +27,7 @@ MEDIS：http://www.medis.or.jp/
 万病辞書：http://mednlp.jp/dic-ja.html
 
 
-■動作環境
+■ 動作環境
 Windows 10
 (Windows 10以外のWindows OSについては動作確認は行っていません）
 Visual Studio 2013 の Visual C++ 再頒布可能パッケージ がインストールされていない場合は
@@ -35,21 +35,21 @@ Visual Studio 2013 の Visual C++ 再頒布可能パッケージ がインストールされていない
 https://www.microsoft.com/ja-jp/download/details.aspx?id=40784
 
 
-■インストール方法
+■ インストール方法
 MedInput.zip　を適当なフォルダに解凍して下さい．
 
 
-■MedInputの使い方の紹介(youtube)
+■ MedInputの使い方の紹介(youtube)
 https://www.youtube.com/watch?v=Km0qckdoc6k
 
 
-■関連論文
+■ 関連論文
 MedInputの詳細な内容については，以下の論文を参照してください．
 
 ・矢野,岩尾,荒牧,"MedInput: 病名の自動予測補完による医療テキスト入力支援ツールの構築",言語処理学会 第24回年次大会,pp.1039-1042,2018,3月
 
 
-■履歴
+■ 履歴
 2018/2/26 Ver1.0  初期バージョン
 
 
